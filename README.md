@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dudenayak&label=Profile%20views&color=0e75b6&style=flat" alt="dudenayak" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dudenayak" alt="dudenayak" /></a> </p>
+<!-- <img align="right" alt="Coding" width="400" src="https://github.com/dudenayak/dudenayak/blob/main/LI%20COVER.png"> -->
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dudenayak" alt="dudenayak" /></a> </p> -->
 
 - 🌱 I’m currently learning **everything :P**
 
-- 👨‍💻 All of my projects are available at [https://dudenayak.github.io/Portfolio/](https://dudenayak.github.io/Portfolio/)
+- 👨‍💻 You can also checkout my portfolio at [https://dudenayak.github.io/Portfolio/](https://dudenayak.github.io/Portfolio/)
 
 - 📫 How to reach me **https://www.linkedin.com/in/devesh-jain-b68b3119a/**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jZ-RZN0hIFvH6zZ608JndkHus6UIGUkF/view](https://drive.google.com/file/d/1jZ-RZN0hIFvH6zZ608JndkHus6UIGUkF/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
