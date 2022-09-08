@@ -62,6 +62,7 @@ export const Contact = () => {
                           type='text'
                           placeholder='First Name'
                           name='first_name'
+                          required='true'
                         />
                       </Col>
                       <Col size={12} sm={6} className='px-1'>
@@ -69,6 +70,7 @@ export const Contact = () => {
                           type='text'
                           placeholder='Last Name'
                           name='last_name'
+                          required='true'
                         />
                       </Col>
                       <Col size={12} sm={6} className='px-1'>
@@ -76,6 +78,7 @@ export const Contact = () => {
                           type='email'
                           placeholder='Email Address'
                           name='user_email'
+                          required='true'
                         />
                       </Col>
                       <Col size={12} sm={6} className='px-1'>
@@ -83,6 +86,7 @@ export const Contact = () => {
                           type='tel'
                           placeholder='Phone No.'
                           name='user_number'
+                          required='true'
                         />
                       </Col>
                       <Col size={12} className='px-1'>
@@ -90,6 +94,7 @@ export const Contact = () => {
                           rows='6'
                           placeholder='Message'
                           name='message'
+                          required='true'
                         ></textarea>
                         <button type='submit' value='Send'>
                           <span>Send</span>

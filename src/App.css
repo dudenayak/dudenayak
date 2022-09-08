@@ -667,4 +667,25 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   width: 140px;
   /* height: auto; */
 }
+.project .nav.nav-pills .nav-link{
+  font-size: 10px;
+}
+}
+
+@media (max-width: 768px){
+  .project .nav.nav-pills .nav-link{
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 420px){
+  .project .nav.nav-pills .nav-link{
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 282px){
+  .project .nav.nav-pills .nav-link{
+    font-size: 7px;
+  }
 }
