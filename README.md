@@ -13,33 +13,33 @@
 
 ## Connect with me
 <p align="center" style="margin-top:-10px">
-  <a href="https://www.linkedin.com/in/devesh-jain-b68b3119a/" target="blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/devesh-jain-b68b3119a/" target="_blank" style="text-decoration: none;">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devesh-jain-b68b3119a/" height="30" width="40" />
   </a>&nbsp;
-  <a href="https://www.instagram.com/dude.nayak/" target="blank" style="text-decoration: none;">
+  <a href="https://www.instagram.com/dude.nayak/" target="_blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dude.nayak" height="30" width="40" />
   </a>&nbsp;
-  <a href="https://twitter.com/dude_nayak" target="blank" style="text-decoration: none;">
+  <a href="https://twitter.com/dude_nayak" target="_blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dude_nayak" height="30" width="40" />
   </a>&nbsp;
-  <a href="https://stackoverflow.com/users/15091979" target="blank" style="text-decoration: none;">
+  <a href="https://stackoverflow.com/users/15091979" target="_blank" style="text-decoration: none;">
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15091979" height="30" width="40" />
   </a>&nbsp;
 </p>
 <p align="center" style="margin-top:-10px">
-  <a href="https://www.leetcode.com/dudenayak" target="blank" style="text-decoration: none;">
+  <a href="https://www.leetcode.com/dudenayak" target="_blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dudenayak" height="30" width="40" />
   </a>&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/dudenayak/profile" target="blank" style="text-decoration: none;">
+  <a href="https://auth.geeksforgeeks.org/user/dudenayak/profile" target="_blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dudenayak" height="30" width="40" />
   </a>&nbsp;
-  <a href="https://www.codechef.com/users/dudenayak" target="blank" style="text-decoration: none;">
+  <a href="https://www.codechef.com/users/dudenayak" target="_blank" style="text-decoration: none;">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dudenayak" height="30" width="40" />
   </a>&nbsp;
-  <a href="https://www.hackerrank.com/dudenayak" target="blank" style="text-decoration: none;">
+  <a href="https://www.hackerrank.com/dudenayak" target="_blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dudenayak" height="30" width="40" />
   </a>&nbsp;
-  <a href="https://www.hackerearth.com/@deveshjain2k1" target="blank" style="text-decoration: none;">
+  <a href="https://www.hackerearth.com/@deveshjain2k1" target="_blank" style="text-decoration: none;">
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@deveshjain2k1" height="30" width="40" />
   </a>&nbsp;
 </p>
