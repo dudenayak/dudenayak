@@ -7,7 +7,7 @@
 - 🌱 I'm currently exploring Development and Java.
 - 🤔 My interest lies in Front End Development.
 - 💬 Ask me about anything, I am happy to help.
-- 🌏 Check out my portfolio: https://dudenayak.github.io/Portfolio/
+- 🌏 Check out my portfolio: https://portfolio-devesh-jain.vercel.app/
 - 📫 Email me at: deveshjain2k1@gmail.com
 - ⚡ Fun fact: I love gaming too!
 
