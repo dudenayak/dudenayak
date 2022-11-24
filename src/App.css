@@ -678,13 +678,13 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   }
 }
 
-@media (max-width: 420px){
+@media (max-width: 470px){
   .project .nav.nav-pills .nav-link{
     font-size: 10px;
   }
 }
 
-@media (max-width: 282px){
+@media (max-width: 354px){
   .project .nav.nav-pills .nav-link{
     font-size: 7px;
   }

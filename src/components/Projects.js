@@ -10,12 +10,33 @@ import projImg7 from '../assets/img/project-img7.png';
 import projImg8 from '../assets/img/project-img8.png';
 import projImg9 from '../assets/img/project-img9.png';
 import projImg10 from '../assets/img/project-img10.png';
+import projImg11 from '../assets/img/project-img11.png';
+import projImg12 from '../assets/img/project-img12.png';
+import projImg13 from '../assets/img/project-img13.png';
 import colorSharp2 from '../assets/img/color-sharp2.png';
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
 export const Projects = () => {
   const projects = [
+    {
+      title: 'RingnRelax',
+      description: 'A Mobile Repairing Workshop',
+      imgUrl: projImg13,
+      link: 'https://www.ringnrelax.com/',
+    },
+    {
+      title: 'Zocket Dashboard',
+      description: 'Create campaigns for ads',
+      imgUrl: projImg12,
+      link: 'https://zocket-frontend.vercel.app/',
+    },
+    {
+      title: 'XenonStack',
+      description: 'Login/SignUp Functionality',
+      imgUrl: projImg11,
+      link: 'https://xenonstack.vercel.app/',
+    },
     {
       title: 'VR Tour',
       description: 'A VR Tour of Indian Pilgrimages',
@@ -26,7 +47,7 @@ export const Projects = () => {
       title: 'Medical Info',
       description: 'A home page for medical website',
       imgUrl: projImg8,
-      link: 'https://front-end-task-ncheoqgk3-dudenayak.vercel.app/',
+      link: 'https://front-end-task-dudenayak.vercel.app/',
     },
     {
       title: 'Netflix Clone',
@@ -125,15 +146,14 @@ export const Projects = () => {
                       <Tab.Pane eventKey='second'>
                         <div className='achievements'>
                           <li>Winner - Smart India Hackathon’22</li>
+                          <li>30 Days of Google Cloud</li>
                           <li>Won EchoAR Track at Cicada 3301: Reinvented</li>
                           <li>Microsoft Learn Student Ambassador - Alpha</li>
                         </div>
                       </Tab.Pane>
                       <Tab.Pane eventKey='third'>
                         <div className='achievements'>
-                          <h2 style={{ textAlign: 'left' }}>
-                            Full Stack Developer
-                          </h2>
+                          <h2 style={{ textAlign: 'left' }}>SDE - Intern</h2>
                           <h4>Earthetic Inc.</h4>
                           <li>
                             Worked on the development of back end APIs, frontend
@@ -147,9 +167,7 @@ export const Projects = () => {
                             Native under the guidance of senior developers.
                           </li>
                           <br />
-                          <h2 style={{ textAlign: 'left' }}>
-                            Web Development Intern
-                          </h2>
+                          <h2 style={{ textAlign: 'left' }}>SDE - Intern</h2>
                           <h4>Technical Zen</h4>
                           <li>
                             Contributed to the existing code and functionality
