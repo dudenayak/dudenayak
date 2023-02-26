@@ -100,10 +100,10 @@ export const Projects = () => {
       link: 'https://real-estate-mrr0bmrjy-dudenayak.vercel.app/',
     },
     {
-      title: 'Resume Builder',
+      title: 'Resumify',
       description: 'A resume builder to create resume and print them',
       imgUrl: projImg3,
-      link: 'https://proud-rock-064b1f610.azurestaticapps.net/',
+      link: 'https://resumify.vercel.app/',
     },
   ];
 
