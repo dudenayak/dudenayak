@@ -13,12 +13,19 @@ import projImg10 from '../assets/img/project-img10.png';
 import projImg11 from '../assets/img/project-img11.png';
 import projImg12 from '../assets/img/project-img12.png';
 import projImg13 from '../assets/img/project-img13.png';
+import projImg14 from '../assets/img/project-img14.png';
 import colorSharp2 from '../assets/img/color-sharp2.png';
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
 export const Projects = () => {
   const projects = [
+    {
+      title: 'Spotify Clone',
+      description: 'A music playing website',
+      imgUrl: projImg14,
+      link: 'https://dudenayak.github.io/JS-Project/login-signup.html',
+    },
     {
       title: 'RingnRelax',
       description: 'A Mobile Repairing Workshop',
@@ -154,7 +161,13 @@ export const Projects = () => {
                       <Tab.Pane eventKey='third'>
                         <div className='achievements'>
                           <h2 style={{ textAlign: 'left' }}>SDE - Intern</h2>
-                          <h4>Earthetic Inc.</h4>
+                          <h4>Posist Technologies | Jan 2023 - Present</h4>
+                          <li>
+                            Skills: AngularJS · Node.js · Express.js · MongoDB
+                          </li>
+                          <br />
+                          <h2 style={{ textAlign: 'left' }}>SDE - Intern</h2>
+                          <h4>Earthetic Inc. | July 2021 - Sept 2021</h4>
                           <li>
                             Worked on the development of back end APIs, frontend
                             UI elements and layouts and crucial business logic
@@ -168,7 +181,7 @@ export const Projects = () => {
                           </li>
                           <br />
                           <h2 style={{ textAlign: 'left' }}>SDE - Intern</h2>
-                          <h4>Technical Zen</h4>
+                          <h4>Technical Zen | April 2021 - June 2021</h4>
                           <li>
                             Contributed to the existing code and functionality
                             in an agile development cycle while working on the
