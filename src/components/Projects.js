@@ -14,12 +14,19 @@ import projImg11 from '../assets/img/project-img11.png';
 import projImg12 from '../assets/img/project-img12.png';
 import projImg13 from '../assets/img/project-img13.png';
 import projImg14 from '../assets/img/project-img14.png';
+import projImg15 from '../assets/img/project-img15.png';
 import colorSharp2 from '../assets/img/color-sharp2.png';
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
 export const Projects = () => {
   const projects = [
+    {
+      title: 'Food Ordering App',
+      description: 'A food ordering app followed by Multi-Tenant Architecture.',
+      imgUrl: projImg15,
+      link: 'https://github.com/dudenayak/FoodOrderingApp-Frontend',
+    },
     {
       title: 'Spotify Clone',
       description: 'A music playing website',
@@ -160,10 +167,15 @@ export const Projects = () => {
                       </Tab.Pane>
                       <Tab.Pane eventKey='third'>
                         <div className='achievements'>
-                          <h2 style={{ textAlign: 'left' }}>SDE - Intern</h2>
+                          <h2 style={{ textAlign: 'left' }}>SDE</h2>
                           <h4>Posist Technologies | Jan 2023 - Present</h4>
                           <li>
-                            Skills: AngularJS · Node.js · Express.js · MongoDB
+                            Working on the POS App - Front Of House Reports : 
+                            Optimizing reports, creating new features, and 
+                            generating new reports.
+                          </li>
+                          <li>
+                            Skills: AngularJS · Node.js · Express.js · MongoDB · AWS S3
                           </li>
                           <br />
                           <h2 style={{ textAlign: 'left' }}>SDE - Intern</h2>

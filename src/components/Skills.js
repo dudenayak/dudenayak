@@ -48,6 +48,10 @@ export const Skills = () => {
                   <h5>React JS</h5>
                 </div>
                 <div className='item'>
+                  <img src={meter1} alt='angular' />
+                  <h5>Angular JS</h5>
+                </div>
+                <div className='item'>
                   <img src={meter1} alt='node' />
                   <h5>Node JS</h5>
                 </div>
