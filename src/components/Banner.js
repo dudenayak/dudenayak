@@ -88,7 +88,7 @@ export const Banner = () => {
                       target='_blank'
                       style={{ color: 'white', textDecoration: 'none' }}
                     >
-                      Download CV
+                      My Resume
                       <ArrowRightCircle size={25} style={{ color: 'white' }} />
                     </a>
                   </button>
