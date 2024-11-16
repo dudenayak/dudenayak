@@ -15,12 +15,101 @@ import projImg12 from '../assets/img/project-img12.png';
 import projImg13 from '../assets/img/project-img13.png';
 import projImg14 from '../assets/img/project-img14.png';
 import projImg15 from '../assets/img/project-img15.png';
+import projImg16 from '../assets/img/project-img16.png';
+import projImg17 from '../assets/img/project-img17.png';
+import projImg18 from '../assets/img/project-img18.png';
+import projImg19 from '../assets/img/project-img19.png';
+import projImg20 from '../assets/img/project-img20.png';
+import projImg21 from '../assets/img/project-img21.png';
+import projImg22 from '../assets/img/project-img22.png';
+import projImg23 from '../assets/img/project-img23.png';
+import projImg24 from '../assets/img/project-img24.png';
+import projImg25 from '../assets/img/project-img25.png';
+import projImg26 from '../assets/img/project-img26.png';
 import colorSharp2 from '../assets/img/color-sharp2.png';
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
 export const Projects = () => {
   const projects = [
+    {
+      title: 'Fizzy Goblet',
+      description: 'A designer footwear and accessories brand',
+      imgUrl: projImg16,
+      link: 'https://www.fizzygoblet.com/',
+    },
+    {
+      title: 'iFixiCare',
+      description: 'A phone repairing solution',
+      imgUrl: projImg17,
+      link: 'https://ifixicare.com/',
+    },
+    {
+      title: 'Clofii',
+      description: 'A clothing brand',
+      imgUrl: projImg18,
+      link: 'https://clofii.com/',
+    },
+    {
+      title: 'Brew Cafe',
+      description: 'An authentic tea/coffee brand from Assam',
+      imgUrl: projImg19,
+      link: 'https://brewcafe.net/',
+    },
+    {
+      title: 'The Indus Valley',
+      description: 'A cookwear brand with all your kitchen needs',
+      imgUrl: projImg20,
+      link: 'https://www.theindusvalley.in/',
+    },
+    {
+      title: 'TNC',
+      description: 'A streetwear clothing brand',
+      imgUrl: projImg21,
+      link: 'https://tncclothing.com/',
+    },
+    {
+      title: 'Zandu',
+      description: 'Ayurvedic medicines',
+      imgUrl: projImg22,
+      link: 'https://zanducare.com/',
+    },
+    {
+      title: 'Dr. Aryakamal Das',
+      description: "A doctor's portfolio",
+      imgUrl: projImg23,
+      link: 'https://aryakamaldas.com/',
+    },
+    {
+      title: 'Shree Badrinath Caterers',
+      description: 'Event Catering & Tent Services',
+      imgUrl: projImg24,
+      link: 'https://shreebadrinathcaterers.com/',
+    },
+    {
+      title: 'Kisakshi Jaipur',
+      description: 'A designer clothing brand',
+      imgUrl: projImg25,
+      link: 'https://kisakshijaipur.com/',
+    },
+    {
+      title: ' House of TenFold',
+      description: 'A jewellery brand',
+      imgUrl: projImg26,
+      link: 'https://houseoftenfold.com/',
+    },
+    {
+      title: 'VR Tour',
+      description: 'A VR Tour of Indian Pilgrimages',
+      imgUrl: projImg7,
+      link: 'https://vrtourpilgrimage.netlify.app/',
+    },
+    {
+      title: 'Resumify',
+      description: 'A resume builder to create resume and print them',
+      imgUrl: projImg3,
+      link: 'https://resumify.vercel.app/',
+    },
     {
       title: 'Food Ordering App',
       description: 'A food ordering app followed by Multi-Tenant Architecture.',
@@ -50,12 +139,6 @@ export const Projects = () => {
       description: 'Login/SignUp Functionality',
       imgUrl: projImg11,
       link: 'https://xenonstack.vercel.app/',
-    },
-    {
-      title: 'VR Tour',
-      description: 'A VR Tour of Indian Pilgrimages',
-      imgUrl: projImg7,
-      link: 'https://vrtourpilgrimage.netlify.app/',
     },
     {
       title: 'Medical Info',
@@ -93,7 +176,6 @@ export const Projects = () => {
       imgUrl: projImg2,
       link: 'https://dudenayak.github.io/Runtime/',
     },
-
     {
       title: 'Travel Journal',
       description: 'A react app for travel journal',
@@ -105,13 +187,7 @@ export const Projects = () => {
       description: 'A react app for real estate',
       imgUrl: projImg5,
       link: 'https://real-estate-mrr0bmrjy-dudenayak.vercel.app/',
-    },
-    {
-      title: 'Resumify',
-      description: 'A resume builder to create resume and print them',
-      imgUrl: projImg3,
-      link: 'https://resumify.vercel.app/',
-    },
+    },  
   ];
 
   return (
@@ -126,10 +202,10 @@ export const Projects = () => {
                     isVisible ? 'animate__animated animate__fadeIn' : ''
                   }
                 >
-                  <h2>Journey so far..</h2>
+                  <h2>Clients we have worked with..</h2>
                   <p></p>
                   <Tab.Container id='projects-tabs' defaultActiveKey='first'>
-                    <Nav
+                    {/* <Nav
                       variant='pills'
                       className='nav-pills mb-5 justify-content-center align-items-center'
                       id='pills-tab'
@@ -143,7 +219,7 @@ export const Projects = () => {
                       <Nav.Item>
                         <Nav.Link eventKey='third'>Experience</Nav.Link>
                       </Nav.Item>
-                    </Nav>
+                    </Nav> */}
                     <Tab.Content
                       id='slideInUp'
                       className={
@@ -157,7 +233,7 @@ export const Projects = () => {
                           })}
                         </Row>
                       </Tab.Pane>
-                      <Tab.Pane eventKey='second'>
+                      {/* <Tab.Pane eventKey='second'>
                         <div className='achievements'>
                           <li>Winner - Smart India Hackathon’22</li>
                           <li>30 Days of Google Cloud</li>
@@ -201,7 +277,7 @@ export const Projects = () => {
                             ReactJS.
                           </li>
                         </div>
-                      </Tab.Pane>
+                      </Tab.Pane> */}
                     </Tab.Content>
                   </Tab.Container>
                 </div>

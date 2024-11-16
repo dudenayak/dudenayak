@@ -77,12 +77,9 @@ export const Banner = () => {
                     </h1>
                   </div>
                   <p>
-                    A Software Developer from Delhi, India. I'm a keen learner
-                    who loves to design and code. I'm always ready to challenge
-                    myself and explore new areas of work. I'm currently
-                    improving my skills as a Full Stack Developer.
+                    I'm a software developer based in Delhi, India with a passion for creating websites. I specialize in freelance web development, offering custom solutions to meet the unique needs of my clients. Whether it's building from scratch or enhancing existing sites, I bring expertise in web technologies to deliver user-friendly, responsive, and efficient websites.
                   </p>
-                  <button>
+                  {/* <button>
                     <a
                       href='https://drive.google.com/file/d/1jZ-RZN0hIFvH6zZ608JndkHus6UIGUkF/view'
                       target='_blank'
@@ -91,7 +88,7 @@ export const Banner = () => {
                       My Resume
                       <ArrowRightCircle size={25} style={{ color: 'white' }} />
                     </a>
-                  </button>
+                  </button> */}
                 </div>
               )}
             </TrackVisibility>

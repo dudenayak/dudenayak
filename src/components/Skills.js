@@ -45,6 +45,18 @@ export const Skills = () => {
               >
                 <div className='item'>
                   <img src={meter1} alt='react' />
+                  <h5>Shopify</h5>
+                </div>
+                <div className='item'>
+                  <img src={meter1} alt='react' />
+                  <h5>Wordpress</h5>
+                </div>
+                <div className='item'>
+                  <img src={meter1} alt='react' />
+                  <h5>Wix</h5>
+                </div>
+                <div className='item'>
+                  <img src={meter1} alt='react' />
                   <h5>React JS</h5>
                 </div>
                 <div className='item'>
