@@ -43,7 +43,7 @@ export const Footer = () => {
                 <img src={navIcon3} alt='' />
               </a>
             </div>
-            <p>Copyright © 2022 Devesh Jain</p>
+            <p>© 2020, DevsAtWork</p>
           </Col>
         </Row>
       </Container>
